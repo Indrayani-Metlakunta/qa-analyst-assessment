@@ -1,1 +1,0 @@
-# qa-analyst-assessment
